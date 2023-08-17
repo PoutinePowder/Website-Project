@@ -16,6 +16,9 @@ class Navigation extends HTMLElement {
                         <li class="nav-item">
                             <a class="nav-link" href="">Teams</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="">Get Involved</a>
+                        </li>
                     </ul>
                 </div>
             </div>
