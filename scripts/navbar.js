@@ -14,7 +14,7 @@ class Navigation extends HTMLElement {
                 <div class="collapse navbar-collapse" id="navbarText">
                     <ul class="navbar-nav mr-auto">
                     <li class="nav-item">
-                            <a class="nav-link" href="">Website-Project/htmlFiles/getInvolved.html</a>
+                            <a class="nav-link" href="Website-Project/htmlFiles/getInvolved.html">Get Involved</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="Website-Project/htmlFiles/teams.html">Teams</a>
