@@ -13,12 +13,13 @@ class Navigation extends HTMLElement {
                 </button>
                 <div class="collapse navbar-collapse" id="navbarText">
                     <ul class="navbar-nav mr-auto">
-                        <li class="nav-item">
-                            <a class="nav-link" href="">Teams</a>
+                    <li class="nav-item">
+                            <a class="nav-link" href="">Website-Project/htmlFiles/getInvolved.html</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="">Get Involved</a>
+                            <a class="nav-link" href="Website-Project/htmlFiles/teams.html">Teams</a>
                         </li>
+                        
                     </ul>
                 </div>
             </div>
