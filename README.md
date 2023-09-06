@@ -15,6 +15,6 @@ Has not been decided and may never be decided as this will be a passion project 
 
 **Starting the server**
 
-``npm run start``
+``npm start``
 
 Go to http://localhost:8080/
